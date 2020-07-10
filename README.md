@@ -19,7 +19,13 @@ ________________________________________________________________________________
    📌[Getting started with Decision Trees](https://courses.analyticsvidhya.com/courses/getting-started-with-decision-trees)      
    📌[Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)      
    📌[Machine Learning Fundamentals](https://www.edx.org/course/machine-learning-fundamentals-2)     
-   📌📌[Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
+   📌📌[Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)      
+   ### IBM Machine Learning Courses✌
+   [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python)     
+   [Machine Learning – Dimensionality Reduction](https://cognitiveclass.ai/courses/machine-learning-dimensionality-reduction)    
+   [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python)    
+   [Data Analysis with Python](https://cognitiveclass.ai/courses/data-analysis-python)
+  
    
    
    
@@ -32,7 +38,7 @@ ________________________________________________________________________________
    📌[Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-for-data-science-and-analytics)    
    📌[A data science program for everyone](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science)     
    📌📌[Data Science and Machine Learning Capstone Project](https://www.edx.org/course/data-science-and-machine-learning-capstone-project)      
-   ##### Harvard EdX Datascience Course
+   ### Harvard EdX Datascience Courses
    [R Basics](https://www.edx.org/course/data-science-r-basics)      
    [Data Visualisation and EDA](https://www.edx.org/course/data-science-visualization)    
    [Probability Theory](https://www.edx.org/course/data-science-probability)     
@@ -40,7 +46,17 @@ ________________________________________________________________________________
    [Data Science Productivity Tools](https://www.edx.org/course/data-science-productivity-tools)      
    [Data Science Wrangling](https://www.edx.org/course/data-science-wrangling)      
    [Data Science Linear Regression](https://www.edx.org/course/data-science-machine-learning)      
-   [Capstone Project](https://www.edx.org/course/data-science-capstone)
+   [Capstone Project](https://www.edx.org/course/data-science-capstone)    
+   ### IBM Data Science Courses✌      
+   [Introduction to Data Science](https://cognitiveclass.ai/courses/data-science-101)
+   [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)      
+   [SQL and Relational Databases 101](https://cognitiveclass.ai/courses/learn-sql-relational-databases)
+   
+# Deep Learning      
+   ### IBM Deep Learning Courses✌    
+   [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning)      
+   [Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/deep-learning-tensorflow)     
+   [Accelerating Deep Learning with GPU](https://cognitiveclass.ai/courses/accelerating-deep-learning-gpu)
    
 
 # AI
@@ -54,7 +70,7 @@ ________________________________________________________________________________
 
 # Natural Language Processing
    📌[Introduction to Natural Language Processing](https://courses.analyticsvidhya.com/courses/Intro-to-NLP)      
-   📌📌[Natural Language Processing (NLP) - Microdoft](https://www.edx.org/course/natural-language-processing-nlp-2)
+   📌📌[Natural Language Processing (NLP) - Microsoft](https://www.edx.org/course/natural-language-processing-nlp-2)
   
    
    
