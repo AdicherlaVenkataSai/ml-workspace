@@ -16,7 +16,10 @@ ________________________________________________________________________________
    📌[Data Visualization using Python](https://www.greatlearning.in/academy/learn-for-free/courses/data-visualization-using-python)✌      
    📌[Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)    
    📌[Machine Learning - Linear Regression](https://leapsapp.analyttica.com/courses/overview/Predictive-Modelling-Linear-Regression)✌     
-   📌[Getting started with Decision Trees](https://courses.analyticsvidhya.com/courses/getting-started-with-decision-trees)
+   📌[Getting started with Decision Trees](https://courses.analyticsvidhya.com/courses/getting-started-with-decision-trees)      
+   📌[Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)      
+   📌[Machine Learning Fundamentals](https://www.edx.org/course/machine-learning-fundamentals-2)     
+   📌📌[Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
    
    
    
@@ -26,13 +29,26 @@ ________________________________________________________________________________
    📌[Pandas for Data Analysis in Python](https://courses.analyticsvidhya.com/courses/pandas-for-data-analysis-in-python)    
    📌[Tableau for Beginners](https://courses.analyticsvidhya.com/courses/pandas-for-data-analysis-in-python)     
    📌[Top Data Science Projects for Analysts and Data Scientists](https://courses.analyticsvidhya.com/courses/take/top-data-science-projects-for-analysts-and-data-scientists/texts/13945900-about-the-data-science-projects-course)      
-   📌[EdX DataScience](https://github.com/AdicherlaVenkataSai/BeginHere/edit/master/README.md)
+   📌[Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-for-data-science-and-analytics)    
+   📌[A data science program for everyone](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science)     
+   📌📌[Data Science and Machine Learning Capstone Project](https://www.edx.org/course/data-science-and-machine-learning-capstone-project)
+   
+  
+# APIs
+   📌[Deep Learning with Tensorflow](https://www.edx.org/course/deep-learning-with-tensorflow)    
+   📌[Deep Learning Fundamentals with Keras](https://www.edx.org/course/deep-learning-fundamentals-with-keras)      
+   📌[Deep Learning with Python and PyTorch](https://www.edx.org/course/deep-learning-with-python-and-pytorch)      
+   📌[PyTorch Basics for Machine Learning](https://www.edx.org/course/pytorch-basics-for-machine-learning)
 
 # Natural Language Processing
-   📌[Introduction to Natural Language Processing](https://courses.analyticsvidhya.com/courses/Intro-to-NLP)
+   📌[Introduction to Natural Language Processing](https://courses.analyticsvidhya.com/courses/Intro-to-NLP)      
+   📌📌[Natural Language Processing (NLP) - Microdoft](https://www.edx.org/course/natural-language-processing-nlp-2)
+  
+   
    
 # Commputer Vision
-   📌
+   📌[Computer Vision Fundamentals with Watson and OpenCV](https://www.edx.org/course/computer-vision-fundamentals)     
+   📌📌[Computer Vision and Image Analysis - Microsoft](https://www.edx.org/course/computer-vision-and-image-analysis-2)
 
 # Git
    📌[Getting Started with Git](https://courses.analyticsvidhya.com/courses/take/getting-started-with-git-and-github-for-data-science-professionals/texts/13970806-what-is-git)     
