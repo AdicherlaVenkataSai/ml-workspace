@@ -56,12 +56,15 @@ ________________________________________________________________________________
    📌[source 1](https://www.greatlearning.in/academy/learn-for-free/live-sessions)     
    📌[source 2](https://datahack.analyticsvidhya.com/events/)
    
+⚠️ If any of the link isn't working check out more...
+   
 # EBooks/Books/CookBooks
    [What is Machine Learning](https://courses.analyticsvidhya.com/courses/ebook-machine-learning)     
    [Tree Based Algorithms](https://courses.analyticsvidhya.com/courses/ebook-tree-based-algorithm)      
    [Natural Language Processing](https://courses.analyticsvidhya.com/courses/ebook-nlp)      
    [Data Cleaning with Numpy and Pandas](https://drive.google.com/file/d/1sBk5jbBB-b18o4EKc_MPTz8ghaGTryn2/view?usp=sharing)     
-   [Data Engineering CookBook](https://drive.google.com/file/d/1RanLgBzWR1kyoEaDzAnv4E_0k6Bkj_JB/view?usp=sharing)
+   [Data Engineering CookBook](https://drive.google.com/file/d/1RanLgBzWR1kyoEaDzAnv4E_0k6Bkj_JB/view?usp=sharing)      
+   [more...](https://drive.google.com/drive/folders/1AtyaE8tYIz-COEbVGWWnXvggLshrU7TV?usp=sharing)
    
    
 # Cheat Sheets
@@ -76,19 +79,27 @@ ________________________________________________________________________________
    [Data Engineering](https://drive.google.com/file/d/1ydhikRlxsZVMA_pp4SFLi9RuHrEFMST2/view?usp=sharing)      
    [Git](https://drive.google.com/file/d/1ydhikRlxsZVMA_pp4SFLi9RuHrEFMST2/view?usp=sharing)    
    [Getting your first DataScience job](https://drive.google.com/file/d/1ydhikRlxsZVMA_pp4SFLi9RuHrEFMST2/view?usp=sharing)      
+   [more...](https://drive.google.com/drive/folders/1AtyaE8tYIz-COEbVGWWnXvggLshrU7TV?usp=sharing)
+   
    
 
 # Exercises
    [Python](https://drive.google.com/file/d/1q9Iv2nOl4u4HOS_g3XIeJvQb2ST5hTeO/view?usp=sharing)     
-   [SQL](https://drive.google.com/file/d/1d9G_yDVd5XE1iYBkQLm11KP849pJDyP9/view?usp=sharing)
+   [SQL](https://drive.google.com/file/d/1d9G_yDVd5XE1iYBkQLm11KP849pJDyP9/view?usp=sharing)    
+   [more...](https://drive.google.com/drive/folders/1AtyaE8tYIz-COEbVGWWnXvggLshrU7TV?usp=sharing)
    
 
 # Interview Questions
    [Python](https://drive.google.com/file/d/17v6dYOraPNB02Aydwn6K0BqUKIEsKWwk/view?usp=sharing)    
    [Data Science](https://drive.google.com/file/d/1qpo6_nCIjnl4FKcA3gwAfzz4mRvyrjPg/view?usp=sharing)    
-   [Variance in Data Science](https://drive.google.com/file/d/1yfS2JaGyNvi_NSJD8yHnvJ8Rttxv7dHT/view?usp=sharing)
+   [Variance in Data Science](https://drive.google.com/file/d/1yfS2JaGyNvi_NSJD8yHnvJ8Rttxv7dHT/view?usp=sharing)    
+   [more...](https://drive.google.com/drive/folders/1B1WYiKPH3-vYW-bxQA98Ncw4Cf_2eM2m?usp=sharing)
    
    
+  
+  
+  
+  
   
    
    
