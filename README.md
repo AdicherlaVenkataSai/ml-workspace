@@ -31,9 +31,21 @@ ________________________________________________________________________________
    📌[Top Data Science Projects for Analysts and Data Scientists](https://courses.analyticsvidhya.com/courses/take/top-data-science-projects-for-analysts-and-data-scientists/texts/13945900-about-the-data-science-projects-course)      
    📌[Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-for-data-science-and-analytics)    
    📌[A data science program for everyone](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science)     
-   📌📌[Data Science and Machine Learning Capstone Project](https://www.edx.org/course/data-science-and-machine-learning-capstone-project)
+   📌📌[Data Science and Machine Learning Capstone Project](https://www.edx.org/course/data-science-and-machine-learning-capstone-project)      
+   ##### Harvard EdX Datascience Course
+   [R Basics](https://www.edx.org/course/data-science-r-basics)      
+   [Data Visualisation and EDA](https://www.edx.org/course/data-science-visualization)    
+   [Probability Theory](https://www.edx.org/course/data-science-probability)     
+   [Data Science Inference and Modeling](https://www.edx.org/course/data-science-inference-and-modeling)    
+   [Data Science Productivity Tools](https://www.edx.org/course/data-science-productivity-tools)      
+   [Data Science Wrangling](https://www.edx.org/course/data-science-wrangling)      
+   [Data Science Linear Regression](https://www.edx.org/course/data-science-machine-learning)      
+   [Capstone Project](https://www.edx.org/course/data-science-capstone)
    
-  
+
+# AI
+   [Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
+
 # APIs
    📌[Deep Learning with Tensorflow](https://www.edx.org/course/deep-learning-with-tensorflow)    
    📌[Deep Learning Fundamentals with Keras](https://www.edx.org/course/deep-learning-fundamentals-with-keras)      
