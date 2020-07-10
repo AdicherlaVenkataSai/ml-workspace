@@ -3,11 +3,11 @@
 ⚠️ - Note
 __________________________________________________________________________________
 # Learn a Language
-    📌[Language basics](https://hyperskill.org/curriculum)      
-    📌[HackerRank Practise](https://www.hackerrank.com/dashboard)      
-    📌[HackerEarth Practise](https://www.hackerearth.com/practice/)        
-    ⚠️ Learn the concept daily(maintain consistency)     
-    ⚠️ Choose either of the one platform(based on convenience) and practise 1 question per day     
+   📌[Language basics](https://hyperskill.org/curriculum)      
+   📌[HackerRank Practise](https://www.hackerrank.com/dashboard)      
+   📌[HackerEarth Practise](https://www.hackerearth.com/practice/)        
+   ⚠️ Learn the concept daily(maintain consistency)     
+   ⚠️ Choose either of the one platform(based on convenience) and practise 1 question per day     
     
 # Machine Learning Free Courses     
    📌[Machine Learning Foundation](https://www.greatlearning.in/academy/learn-for-free/courses/machine-learning-foundation)✌     
