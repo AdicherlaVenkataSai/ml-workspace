@@ -1,9 +1,6 @@
 
-✌ - Free Certificate
+✌ - Free Certificate        
 ⚠️ - Note
-
-
-# Machine Learning
 __________________________________________________________________________________
 # Learn a Language
     📌[Language basics](https://hyperskill.org/curriculum)      
@@ -45,7 +42,7 @@ ________________________________________________________________________________
    
 # Books
    [What is Machine Learning](https://courses.analyticsvidhya.com/courses/ebook-machine-learning)     
-   [Tree Based Algorithms](https://courses.analyticsvidhya.com/courses/ebook-tree-based-algorithm)
+   [Tree Based Algorithms](https://courses.analyticsvidhya.com/courses/ebook-tree-based-algorithm)      
    [Natural Language Processing](https://courses.analyticsvidhya.com/courses/ebook-nlp)
   
    
