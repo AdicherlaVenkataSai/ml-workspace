@@ -1,34 +1,46 @@
 
-# step by step action plan for Learning Data Science in 2020
-
-## Over View
+# Step by Step action plan for Learning Data Science in 2020
 __________________________________________________________________________________
-1.
-a. [Language basics]<https://hyperskill.org/curriculum>
+### 1.
+a. [Language basics](https://hyperskill.org/curriculum)    
+b. [HackerRank Practise](https://www.hackerrank.com/dashboard)      
+c. [HackerEarth Practise](https://www.hackerearth.com/practice/)        
+Note:       
+Learn the concept daily(maintain consistency)      
+Choose either of the one platform(based on convenience) and practise 1 question per day     
+
+
+### 2. Numpy 
+
+
+### 3. Pandas
+
+
+### 4.      
+##### a. Machine Learning models
+##### b. Deep Learning        
+    Artificial Neural Networks
+    Convoultional Neural Networks
+    Recurrent Neural Netwroks       
+##### c. APIs
+    Tensorflow
+    Keras
+    PyTorch
+ 
     
-2. Numpy 
-3. pandas (data pre-processing)
-4. machine learning models(algoritms and maths behind it)
-5. Deploy (flask and django)
+    
+### 5. Deploy (flask and django)
 
-__________________________________________________________________________________
-Deep learning
 
-1. Tensorflow
-2. keras
-3. PyTorch
-1. ANN
-2. CNN
-3. RNN
 
-__________________________________________________________________________________
-data bases:
+
+### data bases:
 
 1. SQL
 2. MongoDB(unstructed data)
 
-__________________________________________________________________________________
-Visulaization tools:
+
+### Visulaization tools:
 
 1. powerBi
 2. Tabealu
