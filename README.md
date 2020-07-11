@@ -1,4 +1,3 @@
-
 ✌ - Free Certificate        
 ⚠️ - Note      
 📌 - Courses
@@ -133,7 +132,22 @@ ________________________________________________________________________________
   
   
   
-   
-   
+  
+  
+### Steps in approaching a Machine learning problem:      
+Below are the steps that I follow while approaching a ML problem.    
+1)Defining and understanding the problem statement    
+2)Gathering the Data    
+3)Initial Exploration of Data    
+4)In-depth EDA    
+5)Building the model    
+6)Analyzing the results with different models and shortlisting the ones which gives good performance measures     
+7)Fine-tuning the selected model    
+8)Document the code     
+9)Deployment      
+10)Monitoring the deployed model performance in real time.
+
+
+[Getting Started with Data Science](https://www.linkedin.com/pulse/getting-started-guide-aspiring-data-scientistdata-srinivasan/)
    
 
