@@ -128,7 +128,22 @@ ________________________________________________________________________________
 # MATLAB free Courses with Certificate
    [Matlab Onramp](https://matlabacademy.mathworks.com/R2020a/portal.html?course=gettingstarted)      
    [Machine learning Onramp](https://matlabacademy.mathworks.com/R2020a/portal.html?course=machinelearning)     
-   [Deep learning Onramp](https://matlabacademy.mathworks.com/R2020a/portal.html?course=deeplearning)
+   [Deep learning Onramp](https://matlabacademy.mathworks.com/R2020a/portal.html?course=deeplearning)    
+   
+   
+ # Math and Stats books    
+ [1-The Elements of Statistical Learning](https://lnkd.in/gd-PpCa)      
+ [2-Statistics and Analysis of Scientific Data](https://lnkd.in/g-hbjWZ)      
+ [3-Linear Algebra Done Right](https://lnkd.in/gqCT-6g)     
+ [4-Statistical Analysis and Data Display](https://lnkd.in/grCNSYq)     
+ [5-Introduction to Statistics and Data Analysis](https://lnkd.in/gUUJMCj)    
+ [6-Understanding Statistics Using R](https://lnkd.in/g27NnMy)    
+ [7-An Introduction to Statistical Learning](https://lnkd.in/gyjbQ-A)      
+ [8-A Modern Introduction to Probability and Statistics](https://lnkd.in/gCgbX6m)      
+ 
+ [Getting Started with Data Science](https://www.linkedin.com/pulse/getting-started-guide-aspiring-data-scientistdata-srinivasan/)
+
+ 
   
   
   
@@ -148,6 +163,6 @@ Below are the steps that I follow while approaching a ML problem.
 10)Monitoring the deployed model performance in real time.
 
 
-[Getting Started with Data Science](https://www.linkedin.com/pulse/getting-started-guide-aspiring-data-scientistdata-srinivasan/)
+
    
 
