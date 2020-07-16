@@ -90,8 +90,9 @@ ________________________________________________________________________________
    [Natural Language Processing](https://courses.analyticsvidhya.com/courses/ebook-nlp)      
    [Data Cleaning with Numpy and Pandas](https://drive.google.com/file/d/1sBk5jbBB-b18o4EKc_MPTz8ghaGTryn2/view?usp=sharing)     
    [Data Engineering CookBook](https://drive.google.com/file/d/1RanLgBzWR1kyoEaDzAnv4E_0k6Bkj_JB/view?usp=sharing)      
-   📌[Machine Learning Projects in Python (Compiled)](https://drive.google.com/file/d/1AKUHhlz3T1uCSAvfxTTzI-I9_8E5y3eK/view?usp=sharing)      
-   [more...](https://drive.google.com/drive/folders/1AtyaE8tYIz-COEbVGWWnXvggLshrU7TV?usp=sharing)    
+   📌[Machine Learning Projects in Python (Compiled)](https://drive.google.com/file/d/1AKUHhlz3T1uCSAvfxTTzI-I9_8E5y3eK/view?usp=sharing)		
+   [Natural Langugae with Python](https://drive.google.com/file/d/1DFriuH98MuJUIw48kMWjGae7wIibXYCt/view?usp=sharing)		
+   [more...](https://drive.google.com/drive/folders/1AtyaE8tYIz-COEbVGWWnXvggLshrU7TV?usp=sharing)		    
    
    
    
@@ -106,7 +107,7 @@ ________________________________________________________________________________
    [Statistics](https://drive.google.com/file/d/1LSQupwyh9OpCVajOSnI1eTYithVCeEJ0/view?usp=sharing)      
    [Data Engineering](https://drive.google.com/file/d/1ydhikRlxsZVMA_pp4SFLi9RuHrEFMST2/view?usp=sharing)      
    [Git](https://drive.google.com/file/d/1ydhikRlxsZVMA_pp4SFLi9RuHrEFMST2/view?usp=sharing)    
-   [Getting your first DataScience job](https://drive.google.com/file/d/1ydhikRlxsZVMA_pp4SFLi9RuHrEFMST2/view?usp=sharing)      
+   [Getting your first DataScience job](https://drive.google.com/file/d/1ydhikRlxsZVMA_pp4SFLi9RuHrEFMST2/view?usp=sharing)		
    [more...](https://drive.google.com/drive/folders/1AtyaE8tYIz-COEbVGWWnXvggLshrU7TV?usp=sharing)
    
    
