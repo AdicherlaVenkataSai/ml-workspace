@@ -172,6 +172,8 @@ Below are the steps that I follow while approaching a ML problem.
 
 This is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible [PyTorch](http://pytorch.org/). Feel free to make a pull request to contribute to this list.
 
+note: I have borrowed the information from other reopository
+
 ## Tutorials
 - [Official PyTorch Tutorials](https://github.com/pytorch/tutorials)
 - [Official PyTorch Examples](https://github.com/pytorch/examples)
@@ -642,9 +644,6 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Community
 - [PyTorch Discussion Forum](https://discuss.pytorch.org/)
 - [StackOverflow PyTorch Tags](http://stackoverflow.com/questions/tagged/pytorch)
-
-## Links to This Repository
-- [Github Repository](https://github.com/ritchieng/the-incredible-pytorch)
 - [Website](https://www.ritchieng.com/the-incredible-pytorch/)
 
 ## To be Classified
@@ -667,3 +666,4 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [NIMA: Neural Image Assessment](https://github.com/truskovskiyk/nima.pytorch)
 - [NASNet-A-Mobile. Ported weights](https://github.com/veronikayurchuk/pretrained-models.pytorch)
 - [Graphics code generating model using Processing](https://github.com/jtoy/sketchnet)
+
