@@ -1,20 +1,20 @@
 # One Stop for machine learning
 
 **Sections:**		
-1. [Papers](https://github.com/AdicherlaVenkataSai/ml-workspace/edit/master/README.md#L35)		
-2. [Languages](https://github.com/AdicherlaVenkataSai/ml-workspace/edit/master/README.md#L69)		
-3. [Platforms](https://github.com/AdicherlaVenkataSai/ml-workspace/edit/master/README.md#L79)		
-4. [Courses](https://github.com/AdicherlaVenkataSai/ml-workspace/edit/master/README.md#L94)		
-5. [Live Sessions](https://github.com/AdicherlaVenkataSai/ml-workspace/edit/master/README.md#L157)		
-6. [Books](https://github.com/AdicherlaVenkataSai/ml-workspace/edit/master/README.md#L164)		
-7. [Cheat sheets](https://github.com/AdicherlaVenkataSai/ml-workspace/edit/master/README.md#L176)		
-8. [Interview Questions](https://github.com/AdicherlaVenkataSai/ml-workspace/edit/master/README.md#L200)		
-9. [DataSets](https://github.com/AdicherlaVenkataSai/ml-workspace/edit/master/README.md#L209)		
-10. [Blogs and Community](https://github.com/AdicherlaVenkataSai/ml-workspace/edit/master/README.md#L221)		
-11. [Online Competitions](https://github.com/AdicherlaVenkataSai/ml-workspace/edit/master/README.md#L230)		
-12. [Other Sources](https://github.com/AdicherlaVenkataSai/ml-workspace/edit/master/README.md#L239)		
-13. [About CNNs](https://github.com/AdicherlaVenkataSai/ml-workspace/edit/master/README.md#L282)		
-14. [About GANs](https://github.com/AdicherlaVenkataSai/ml-workspace/edit/master/README.md#L318)
+1. [Papers](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L35)		
+2. [Languages](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L69)		
+3. [Platforms](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L79)		
+4. [Courses](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L94)		
+5. [Live Sessions](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L157)		
+6. [Books](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L164)		
+7. [Cheat sheets](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L176)		
+8. [Interview Questions](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L200)		
+9. [DataSets](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L209)		
+10. [Blogs and Community](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L221)		
+11. [Online Competitions](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L230)		
+12. [Other Sources](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L239)		
+13. [About CNNs](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L282)		
+14. [About GANs](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L318)
 
 
 **Steps in approaching a Machine learning problem:**      
