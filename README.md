@@ -1,6 +1,7 @@
 # One Stop for machine learning
 
-**Sections:**		
+	
+<!--
 1. [Papers](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L35)		
 2. [Languages](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L69)		
 3. [Platforms](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L79)		
@@ -15,6 +16,23 @@
 12. [Other Sources](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L239)		
 13. [About CNNs](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L282)		
 14. [About GANs](https://github.com/AdicherlaVenkataSai/ml-workspace/blame/master/README.md#L318)
+-->
+
+**Sections:**		
+1. Papers		
+2. Languages	
+3. Platforms	
+4. Courses		
+5. Live Sessions		
+6. Books		
+7. Cheat sheets		
+8. Interview Questions		
+9. DataSets	
+10. Blogs and Community		
+11. Online Competitions		
+12. Other Sources
+13. About CNNs		
+14. About GANs
 
 
 **Steps in approaching a Machine learning problem:**      
@@ -223,7 +241,6 @@ Most of the courses are available in `Python` language. kindly re-check before t
 -  [Analyticsvidhya](https://www.analyticsvidhya.com/blog/?utm_source=feed&utm_medium=navbar)
 -  [Machinelearningmastery](https://machinelearningmastery.com/blog/)
 -  [Medium](https://medium.com/)
-
 -  [PyTorch Discussion Forum](https://discuss.pytorch.org/)
 -  [StackOverflow PyTorch Tags](http://stackoverflow.com/questions/tagged/pytorch)
 -  [Website](https://www.ritchieng.com/the-incredible-pytorch/)
