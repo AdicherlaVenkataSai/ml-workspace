@@ -177,14 +177,14 @@ Most of the courses are available in `Python` language. kindly re-check before t
 -  [source 2](https://datahack.analyticsvidhya.com/events/)
 
 
-**Note: In the below available sections if the required book/cheatsheet is not present or for more info check the `more`**  
-
+**Note: In the below available sections if the required book/cheatsheet is not present or for more info check the `more` .**  
+**Note: Few google links are getting crashing for few files, in such scenario, can direclty check `more` (folder) .**
 ## EBooks/Books/CookBooks
 -  [What is Machine Learning](https://courses.analyticsvidhya.com/courses/ebook-machine-learning)     
 -  [Tree Based Algorithms](https://courses.analyticsvidhya.com/courses/ebook-tree-based-algorithm)      
 -  [Natural Language Processing](https://courses.analyticsvidhya.com/courses/ebook-nlp)      
--  [Data Cleaning with Numpy and Pandas](https://drive.google.com/file/d/1sBk5jbBB-b18o4EKc_MPTz8ghaGTryn2/view?usp=sharing)     
--  [Data Engineering CookBook](https://drive.google.com/file/d/1RanLgBzWR1kyoEaDzAnv4E_0k6Bkj_JB/view?usp=sharing)      
+-  [Data Cleaning with Numpy and Pandas](https://drive.google.com/file/d/1pk1oO-bWFf9L02Z0W90LTTDDh1djSXDQ/view?usp=sharing)     
+-  [Data Engineering CookBook](https://drive.google.com/file/d/1qbEwEdQw-cB75ba1aFvQMJKzayso7GA7/view?usp=sharing)      
 -  [Machine Learning Projects in Python (Compiled)](https://drive.google.com/file/d/1AKUHhlz3T1uCSAvfxTTzI-I9_8E5y3eK/view?usp=sharing)		
 -  [Natural Langugae with Python](https://drive.google.com/file/d/1DFriuH98MuJUIw48kMWjGae7wIibXYCt/view?usp=sharing)		
 
@@ -192,36 +192,39 @@ Most of the courses are available in `Python` language. kindly re-check before t
    
    
 ## Cheat Sheets
--  [Python](https://drive.google.com/file/d/1RUcxSxYNmsXQ6jeil9MbyHVzKX_Enmn_/view?usp=sharing)    
--  [R](https://drive.google.com/file/d/1D9xq4Go56GDQVXSniISsI-4Ww0ClBK4-/view?usp=sharing)      
--  [SQL](https://drive.google.com/file/d/1FKGq1fjzdF5UFysyFCSwKaUM8Gmjy7nC/view?usp=sharing)    
--  [Machine Learning](https://drive.google.com/file/d/10wlP1DZHNfEavXwmjbhJpn0_u6nZqzRT/view?usp=sharing)      
--  [Supervised learning](https://drive.google.com/file/d/1UWbZ0vbBw7iBb-SbAXRowbcBNk5_vAts/view?usp=sharing)      
--  [Data Science](https://drive.google.com/file/d/134XSl2RgpE4cMXnQAmymhBoO1kcqS-Kb/view?usp=sharing)    
--  [Probability](https://drive.google.com/file/d/1Ja7LCMhiuljBJUvZvzVSkVLVORh-dUUs/view?usp=sharing)
--  [Statistics](https://drive.google.com/file/d/1LSQupwyh9OpCVajOSnI1eTYithVCeEJ0/view?usp=sharing)      
--  [Data Engineering](https://drive.google.com/file/d/1ydhikRlxsZVMA_pp4SFLi9RuHrEFMST2/view?usp=sharing)      
--  [Git](https://drive.google.com/file/d/1ydhikRlxsZVMA_pp4SFLi9RuHrEFMST2/view?usp=sharing)    
--  [Getting your first DataScience job](https://drive.google.com/file/d/1ydhikRlxsZVMA_pp4SFLi9RuHrEFMST2/view?usp=sharing)		
+-  [Python](https://drive.google.com/file/d/1yEg3Fj9Kz-axHfWUq6oQ0I6C6pKVTjua/view?usp=sharing)    
+-  [R](https://drive.google.com/file/d/1CTDB8XIbaGRY1SeQtJ0ZCou0kf4xfqvf/view?usp=sharing)      
+-  [SQL](https://drive.google.com/file/d/1VDx0iEg5PlSf_1Pzf1TRjjjq8d5Vp1D5/view?usp=sharing)    
+-  [Machine Learning](https://drive.google.com/file/d/1ZDLhNE9IJ2kW38vrdyzdX_kB13lzf0u7/view?usp=sharing)      
+-  [Supervised learning](https://drive.google.com/file/d/1qrJd04b1c2n00Xbb-9x6myJZHGiL-aBX/view?usp=sharing)      
+-  [Data Science](https://drive.google.com/file/d/1mxtQ_2JDfINiUHOPb-5ZM0g-ZQIu2c06/view?usp=sharing)    
+-  [Probability](https://drive.google.com/file/d/1bxAsXUrOQKA5PRcNy8TDjk1UJhtq_UNd/view?usp=sharing)
+-  [Statistics](https://drive.google.com/file/d/1_U6mDRVkR0dp4VgZNQoainsf8_5WblDa/view?usp=sharing)      
+-  [Data Engineering](https://drive.google.com/file/d/16atXb3Kz_zsUi2uYSu_sIH0n5CCNXmzV/view?usp=sharing)      
+-  [Git](https://drive.google.com/file/d/1A2mBL5dVuoWM7vlRJLNqJlFKqVGzxEC3/view?usp=sharing)    
    
-[more...](https://drive.google.com/drive/folders/1AtyaE8tYIz-COEbVGWWnXvggLshrU7TV?usp=sharing)
+[more...](https://drive.google.com/drive/folders/1kX_0frKyzmdpj7PXefTIMuZoKDKBlmtU?usp=sharing)
    
    
 
 ## Exercises
--  [Python](https://drive.google.com/file/d/1q9Iv2nOl4u4HOS_g3XIeJvQb2ST5hTeO/view?usp=sharing)     
--  [SQL](https://drive.google.com/file/d/1d9G_yDVd5XE1iYBkQLm11KP849pJDyP9/view?usp=sharing)    
+-  [Python](https://drive.google.com/file/d/1g4wssDtS6NxE66SUkXoZVJzAJV3RnZH7/view?usp=sharing)     
+-  [SQL](https://drive.google.com/file/d/1ZA2ouiOS9TaG-yev3uAFsrBHiAJ2p6jT/view?usp=sharing)
+-  [Matplotlib](https://drive.google.com/file/d/1LtTJrTWANziMkfJ6SLQuSLdbEpk9Es7S/view?usp=sharing)
    
-[more...](https://drive.google.com/drive/folders/1AtyaE8tYIz-COEbVGWWnXvggLshrU7TV?usp=sharing)
+[more...](https://drive.google.com/drive/folders/1wVFPGUaBX_snFskIXOg0av18Jvsd-rBz?usp=sharing)
    
 
 ## Interview Questions
--  [Python](https://drive.google.com/file/d/17v6dYOraPNB02Aydwn6K0BqUKIEsKWwk/view?usp=sharing)    
--  [Data Science](https://drive.google.com/file/d/1qpo6_nCIjnl4FKcA3gwAfzz4mRvyrjPg/view?usp=sharing)    
--  [Variance in Data Science](https://drive.google.com/file/d/1yfS2JaGyNvi_NSJD8yHnvJ8Rttxv7dHT/view?usp=sharing)
--  [Interview question data science](https://github.com/iNeuronai/interview-question-data-science-)   
+-  [Python](https://drive.google.com/file/d/1byBSx4oFvS3hx3OobDGjD3FCwzJlTZM1/view?usp=sharing)    
+-  [Data Science](https://drive.google.com/file/d/1Ufi-eB5m2OQyiXb62aTiUbdBdRxpnT0I/view?usp=sharing)    
+-  [Variance in Data Science](https://drive.google.com/file/d/1f6DHYVWHJUxhClblwOvGQ0Cj5BGVYwET/view?usp=sharing)
+-  [Interview question data science](https://github.com/iNeuronai/interview-question-data-science-)
+-  [Self prepared Interview Questions]()
 
 [more...](https://drive.google.com/drive/folders/1B1WYiKPH3-vYW-bxQA98Ncw4Cf_2eM2m?usp=sharing)
+
+Note: These Self prepared Interview Questions will be updated weekly.
 
 
 ## DataSets
