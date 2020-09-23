@@ -388,9 +388,11 @@ Note: These Self prepared Interview Questions will be updated weekly.
 
 
 **Thank You for visiting the repo, hope it helped you!**
-**I would like to hear suggestions from you!!**		
+**I would like to hear suggestions from you!!**
+
 **Can reach me at**		
-[![Whatsapp: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-%2325D366.svg?&flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+918008527755)](https://wa.me/+918008527755)[![Linkedin: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adicherlavenkatasai/)](https://www.linkedin.com/in/adicherlavenkatasai/)
+-  [![Whatsapp: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-%2325D366.svg?&flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+918008527755)](https://wa.me/+918008527755)
+-  [![Linkedin: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adicherlavenkatasai/)](https://www.linkedin.com/in/adicherlavenkatasai/)
 
 
 
