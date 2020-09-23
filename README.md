@@ -113,7 +113,8 @@ As we know that machine(deep) learning models need high computational power, it 
 Most of the courses are available in `Python` language. kindly re-check before taking the course of you have any language constraints.      
 **Note:** No organisation can be seen here, kindly pick the course based on your requirement.
 
-**Machine Learning**
+**Machine Learning**		
+-  [Machine Learning (Stanford CS229)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 -  [Python for Machine Learning (Great Learning)](https://olympus.greatlearning.in/courses/10899) 
 -  [Statistics for Machine Learrning (Great Learning)](https://www.greatlearning.in/academy/learn-for-free/courses/statistics-for-machine-learning)     
 -  [Data Visualization using Python (Great Learning)](https://www.greatlearning.in/academy/learn-for-free/courses/data-visualization-using-python)      
@@ -128,6 +129,8 @@ Most of the courses are available in `Python` language. kindly re-check before t
 -  [Machine Learning – Dimensionality Reduction (IBM)](https://cognitiveclass.ai/courses/machine-learning-dimensionality-reduction)    
 -  [Data Visualization with Python (IBM)](https://cognitiveclass.ai/courses/data-visualization-with-python)  
 -  [Data Analysis with Python (IBM)](https://cognitiveclass.ai/courses/data-analysis-python)
+-  [Applied Machine Learning 2020 (Columbia)](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
+
 
 **DataScience**
 -  [Introduction to Python (Analytics Vidhya)](https://courses.analyticsvidhya.com/courses/introduction-to-data-science)     
@@ -154,13 +157,18 @@ Most of the courses are available in `Python` language. kindly re-check before t
 -  [Deep Learning Fundamentals (IBM)](https://cognitiveclass.ai/courses/introduction-deep-learning)      
 -  [Deep Learning with TensorFlow (IBM)](https://cognitiveclass.ai/courses/deep-learning-tensorflow)     
 -  [Accelerating Deep Learning with GPU (IBM)](https://cognitiveclass.ai/courses/accelerating-deep-learning-gpu)
+-  [Convolutional Neural Networks for Visual Recognition (Stanford CS231n)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 **Artificial Intelligence**
 -  [Introduction to Artificial Intelligence with Python (Harvard EdX)](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
+-  [Introduction to Artificial Intelligence (UC Berkeley CS188)](https://www.youtube.com/playlist?list=PL7k0r4t5c108AZRwfW-FhnkZ0sCKBChLH)
+
 
 **Natural Language Processing**
 -  [Introduction to Natural Language Processing](https://courses.analyticsvidhya.com/courses/Intro-to-NLP)      
 -  [Natural Language Processing (NLP) - Microsoft](https://www.edx.org/course/natural-language-processing-nlp-2)
+-  [Natural Language Processing with Deep Learning (Stanford CS224N)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+-  [Natural Language Understanding (Stanford CS224U)](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
 
 **Commputer Vision**
 -  [Computer Vision Fundamentals with Watson and OpenCV](https://www.edx.org/course/computer-vision-fundamentals)     
@@ -379,6 +387,11 @@ Note: These Self prepared Interview Questions will be updated weekly.
 
 
 
+**Thank You for visiting the repo, hope it helped you!**
+**I would like to hear suggestions from you!!**		
+**Can reach me at**		
+[![Whatsapp: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-%2325D366.svg?&flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+918008527755)](https://wa.me/+918008527755)		
+[![Linkedin: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adicherlavenkatasai/)](https://www.linkedin.com/in/adicherlavenkatasai/)
 
 
 
