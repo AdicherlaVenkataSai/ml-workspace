@@ -130,6 +130,7 @@ Most of the courses are available in `Python` language. kindly re-check before t
 -  [Data Visualization with Python (IBM)](https://cognitiveclass.ai/courses/data-visualization-with-python)  
 -  [Data Analysis with Python (IBM)](https://cognitiveclass.ai/courses/data-analysis-python)
 -  [Applied Machine Learning 2020 (Columbia)](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
+-  [Machine Learning (Scaler Academy)](https://www.scaler.com/courses/machine-learning-course-training/)
 
 
 **DataScience**
@@ -152,6 +153,7 @@ Most of the courses are available in `Python` language. kindly re-check before t
 -  [Introduction to Data Science (IBM)](https://cognitiveclass.ai/courses/data-science-101)
 -  [Python for Data Science (IBM)](https://cognitiveclass.ai/courses/python-for-data-science)      
 -  [SQL and Relational Databases 101 (IBM)](https://cognitiveclass.ai/courses/learn-sql-relational-databases)
+-  [Data Science (Scaler Academy)](https://www.scaler.com/data-science-course/)
 
 **APIs**
 -  [Deep Learning Fundamentals (IBM)](https://cognitiveclass.ai/courses/introduction-deep-learning)      
